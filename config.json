@@ -1,0 +1,20 @@
+{
+	"mindmapFolder": "/home/pimania/Syncs/Mindmaps",
+	"markdownListFile": "/home/pimania/Dev/mindmapsync/markdownFiles.txt",
+	"brightColours": [
+		"#FFFFFF",
+		"#0F47AF",
+		"#DA1219",
+		"#EB7710",
+		"#FCDD07",
+		"#068930",
+		"#B02FF7",
+		"#11EDED",
+		"#62CD72",
+		"#FF1493",
+		"#98FB98"
+	],
+	"lastRunTimeFile": "lastRunTime.txt",
+	"backupsFolder": "/home/pimania/Dev/mindmapsync/backups",
+	"maxBackupFiles": 1000
+}
